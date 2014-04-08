@@ -1,0 +1,23 @@
+/* Your Website Styles */
+img {
+	height: 400px;
+}
+h1 {
+	color: black;
+	text-shadow: 10px 10px 10px black;
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+ul, ol {
+  background: pink;
+}
+
+#food {
+  background: blue;
+}
+.highlight {
+  background: teal;
+}
