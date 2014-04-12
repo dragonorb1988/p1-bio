@@ -1,12 +1,33 @@
 /* Your Website Styles */
+body {
+	background: url("../img/bg.png");
+}	
+
 img {
 	height: 400px;
 }
 h1 {
 	color: black;
+	font-family: 'Tienne', serif;
 	text-shadow: 10px 10px 10px black;
+	letter-spacing: 2px;
+	text-transform: uppercase;
 }
 
+p {
+	line-height: 24px;
+}
+
+h3 {
+	font-family: 'Tienne', serif;
+	color: #44C180;
+	font-weight: bold;
+}
+
+h4 {
+	font-family: font-family: 'Playfair Display SC', serif;
+	font-style: italic;
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
